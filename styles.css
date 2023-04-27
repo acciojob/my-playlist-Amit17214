@@ -2,8 +2,12 @@
 body{
 	background-color: #cccccc;
 }
+*{
+	text-decoration:none;
+	list-style:none;
+}
 
-h1,h4{
+h1, h2{
 	text-align:center;
 	padding:0px;
 /* 	margin:0px; */
@@ -16,11 +20,12 @@ h1,h4{
 	border-radius:10px;
 }
 
-  ul, a{
-	text-decoration:none;
+  ul a{
+
 	line-height:10px;
 	color:black;
-	list-style:none;
+	
+	margin-top: 50px ;
 }
 
 .player_two{
