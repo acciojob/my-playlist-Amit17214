@@ -1,1 +1,59 @@
 /*  your css code here. If applicable */
+body{
+	background-color: #cccccc;
+}
+
+h2,h4{
+	text-align:center;
+/* 	padding:5px; */
+}
+
+.player_one{
+	background-color:white;
+	height:180px;
+	border:1px solid black;
+	border-radius:10px;
+	padding-left:10px;
+}
+
+a{
+	text-decoration:none;
+	line-height:10px;
+	color:black;
+}
+
+.player_two{
+	text-align:center;
+	background-color:white;
+	width:340px;
+	padding:10px 0px;
+	margin:auto;
+	border-radius:10px;
+	border: 1px solid black;
+}
+
+h6{
+	text-align:start;
+    margin-left:10px;
+}
+audio{
+	width:340px;
+	height:30px;
+/* 	margin-bottom:30px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
